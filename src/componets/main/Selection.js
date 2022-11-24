@@ -1,0 +1,61 @@
+import { useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { Link } from "react-router-dom";
+import { getslection, selections } from "../toolkit/selectionSlice";
+
+const Selection = () => {
+  const dispatch = useDispatch();
+  const itemselection = useSelector(selections);
+  useEffect(() => {
+    dispatch(getslection());
+    // eslint-disable-next-line
+  }, []);
+  return (
+    <div className="wrapper-selection">
+      <div className="selection-top">
+        <div className="selecton-text">
+          <i className="fa fa-percent"></i>
+          <h5 className="text-selecton">
+            منتخب محصولات تخفیف و حراج دیجی کالا
+          </h5>
+        </div>
+      </div>
+      <div className="parnet-slection-product">
+        <div className="inner-selection">
+          {itemselection.map((item) => (
+            <div key={item.id} className="item-selection">
+              <div className="box-slection">
+                <div className="img-slection">
+                  {" "}
+                  <img src={item.url} alt={item.id} />
+                </div>
+                <div className="title-slection">
+                  <div className="price-slection">
+                    <span className="span-section-percent">{item.percent}</span>
+                    <div className="span-selection-price">
+                      <span>{item.price}</span>
+                      <span>تومان</span>
+                    </div>
+                  </div>
+                  <div className="disprice">
+                    <span>{item.dic}</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+      <div className="all-see-slection">
+        <Link to={"/digi/all/section"} className="view-all-link">
+          <span>مشاهده بیشتر</span>
+          <div className="icon-see-view">
+            <i className="fa fa-chevron-left"></i>
+          </div>
+        </Link>
+      </div>
+    </div>
+  );
+};
+
+export default Selection;

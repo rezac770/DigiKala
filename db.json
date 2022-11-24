@@ -1,0 +1,387 @@
+{
+  "Products": [
+    {
+      "name": "کالای دیجیتال",
+      "pic": "../images/products/digitall.png",
+      "id": " 0"
+    },
+    {
+      "name": "موبایل",
+      "pic": "../images/products/mobile.png",
+      "id": " 1"
+    },
+    {
+      "name": "مد و پوشاک",
+      "pic": "../images/products/mod.png",
+      "id": " 2"
+    },
+    {
+      "name": "کالای سوپر مارکتی",
+      "pic": "../images/products/supermarket.png",
+      "id": " 3"
+    },
+    {
+      "name": "اسباب بازی",
+      "pic": "../images/products/dolls.png",
+      "id": " 4"
+    },
+    {
+      "name": "صنایع دستی",
+      "pic": "../images/products/handcrafts.png",
+      "id": " 5"
+    },
+    {
+      "name": "ارایشی",
+      "pic": "../images/products/beauty.png",
+      "id": " 6"
+    },
+    {
+      "name": "خانه ",
+      "pic": "../images/products/home.png",
+      "id": " 7"
+    },
+    {
+      "name": "لوازمالتحریر",
+      "pic": "../images/products/book.png",
+      "id": " 8"
+    },
+    {
+      "name": "ورزشی",
+      "pic": "../images/products/sport.png",
+      "id": " 9"
+    },
+    {
+      "name": "ابزار",
+      "pic": "../images/products/equpments.png",
+      "id": "10"
+    }
+  ],
+  "offer": [
+    {
+      "id": " 0",
+      "name": "گوشی و موبایل",
+      "img": "../images/offer/mobile.jpg"
+    },
+    {
+      "id": " 1",
+      "name": "ساعت هوشمند",
+      "img": "../images/offer/pic2.jpg"
+    },
+    {
+      "id": " 2",
+      "name": "کفش ورزشی زنانه",
+      "img": "../images/offer/shoes.jpg"
+    },
+    {
+      "id": " 3",
+      "name": "بلندگو",
+      "img": "../images/offer/speaker.jpg"
+    },
+    {
+      "id": " 4",
+      "name": "کنسول خانگی",
+      "img": "../images/offer/console.jpg"
+    },
+    {
+      "id": " 5",
+      "name": "کابل وشارژر",
+      "img": "../images/offer/cable.jpg"
+    },
+    {
+      "id": " 6",
+      "name": "مچ بند هوشمند",
+      "img": "../images/offer/bandwatch.jpg"
+    },
+    {
+      "id": " 7",
+      "name": "هدفون",
+      "img": "../images/offer/headphone.jpg"
+    },
+    {
+      "id": " 8",
+      "name": "لب تاب",
+      "img": "../images/offer/laptob.jpg"
+    },
+    {
+      "id": " 9",
+      "name": "تبلت",
+      "img": "../images/offer/tablet.jpg"
+    },
+    {
+      "id": "10",
+      "name": "کاور",
+      "img": "../images/offer/mobilecover.jpg"
+    },
+    {
+      "id": "11",
+      "name": "کفش مردانه",
+      "img": "../images/offer/shoes.jpg"
+    },
+    {
+      "id": "12",
+      "name": "ماژیک",
+      "img": "../images/offer/market.jpg"
+    },
+    {
+      "id": "13",
+      "name": "ساعتت انالوگ",
+      "img": "../images/offer/analogwacth.jpg"
+    }
+  ],
+  "bestseliing": [
+    {
+      "id": " 0",
+      "name": "پنیر فتا دوشه 400گرمی",
+      "number": "1",
+      "url": "../images/bestsell/pic1.jpg"
+    },
+    {
+      "id": " 1",
+      "name": "هندز فری بلوتوثی",
+      "number": "2",
+      "url": "../images/bestsell/pic2.jpg"
+    },
+    {
+      "id": " 2",
+      "name": "روغن نیمه جامد لادن 5کیلوگرمی",
+      "number": "3",
+      "url": "../images/bestsell/pic3.jpg"
+    },
+    {
+      "id": " 3",
+      "name": "ماکارونی ریگانه زرماکارمن 400گرمی",
+      "number": "4",
+      "url": "../images/bestsell/pic4.jpg"
+    },
+    {
+      "id": " 4",
+      "name": "رب گوجه فرنگی چین چین 800گرمی",
+      "number": "5",
+      "url": "../images/bestsell/pic5.jpg"
+    },
+    {
+      "id": " 5",
+      "name": "دستما کاغذی صد برگ بیتا",
+      "number": "6",
+      "url": "../images/bestsell/pic6.jpg"
+    },
+    {
+      "id": " 6",
+      "name": "شکرسفید کامکا 800گرمی",
+      "number": "7",
+      "url": "../images/bestsell/pic7.jpg"
+    },
+    {
+      "id": " 7",
+      "name": "گوشی موبایل سامسونگ",
+      "number": "8",
+      "url": "../images/bestsell/pic8.jpg"
+    },
+    {
+      "id": " 8",
+      "name": "گوشی موبایل شیاومی مدل redmi",
+      "number": "9",
+      "url": "../images/bestsell/pic9.jpg"
+    },
+    {
+      "id": " 9",
+      "name": "ماکارانی پیکولی زر ماکارون",
+      "number": "10",
+      "url": "../images/bestsell/pic10.jpg"
+    },
+    {
+      "id": " 10",
+      "name": "اسپاگتی قطر1.2مدل زرماکارون",
+      "number": "11",
+      "url": "../images/bestsell/pic11.jpg"
+    },
+    {
+      "id": " 11",
+      "name": "پدارایشی پاک مدل ایپک",
+      "number": "12",
+      "url": "../images/bestsell/pic12.jpg"
+    },
+    {
+      "id": " 12",
+      "name": "پوشک بچه مولفیکس مدل اقتصادی",
+      "number": "13",
+      "url": "../images/bestsell/pic13.jpg"
+    },
+    {
+      "id": " 13",
+      "name": "زعفران سحر خیز",
+      "number": "14",
+      "url": "../images/bestsell/pic14.jpg"
+    },
+    {
+      "id": " 14",
+      "name": "لامپ ال ایدی12 وات لیتومکس",
+      "number": "15",
+      "url": "../images/bestsell/pic15.jpg"
+    },
+    {
+      "id": " 15",
+      "name": "لامپ ال ایدی 7 وات لیتومکس",
+      "number": "16",
+      "url": "../images/bestsell/pic16.jpg"
+    },
+    {
+      "id": " 16",
+      "name": "پوشک بچه مولفیکس مدل اقتصادی",
+      "number": "17",
+      "url": "../images/bestsell/pic17.jpg"
+    },
+    {
+      "id": " 17",
+      "name": "زعفران درجه یک مصطفوی ",
+      "number": "18",
+      "url": "../images/bestsell/pic18.jpg"
+    }
+  ],
+  "slection": [
+    {
+      "id": "0",
+      "price": "4.900.000",
+      "percent": "12%",
+      "dic": "5.900.000",
+      "discription": "شومینه برقی",
+      "url": "../images/selection/pic1.jpg"
+    },
+    {
+      "id": "1",
+      "price": "430.000",
+      "percent": "12%",
+      "dic": "530.000",
+      "discription": "تابلو چند تیکه",
+      "url": "../images/selection/pic2.jpg"
+    },
+    {
+      "id": "2",
+      "price": "98.000",
+      "percent": "25%",
+      "dic": "193.000",
+      "discription": "ضبط پایونیر",
+      "url": "../images/selection/pic3.jpg"
+    },
+    {
+      "id": "3",
+      "price": "4.900.000",
+      "percent": "12%",
+      "dic": "5.900.000",
+      "discription": "ضبط مدل اینفینیتی ",
+      "url": "../images/selection/pic4.jpg"
+    },
+    {
+      "id": "4",
+      "price": "600.000",
+      "percent": "12%",
+      "dic": "700.000",
+      "discription": "جعبه ابزار خیاطی",
+      "url": "../images/selection/pic5.jpg"
+    },
+    {
+      "id": "5",
+      "price": "680.000",
+      "percent": "23%",
+      "dic": "860.000",
+      "discription": "کلاه پشمی",
+      "url": "../images/selection/pic6.jpg"
+    },
+    {
+      "id": "6",
+      "price": "90.000",
+      "percent": "12%",
+      "dic": "100.000",
+      "discription": "ابزار",
+      "url": "../images/selection/pic7.jpg"
+    },
+    {
+      "id": "7",
+      "price": "800.000",
+      "percent": "10%",
+      "dic": "900.000",
+      "discription": "کلاه",
+      "url": "../images/selection/pic8.jpg"
+    },
+    {
+      "id": "8",
+      "price": "590.000",
+      "percent": "12%",
+      "dic": "690.000",
+      "discription": "کابل شارژ",
+      "url": "../images/selection/pic9.jpg"
+    },
+    {
+      "id": "9",
+      "price": "300.000",
+      "percent": "50%",
+      "dic": "600.000",
+      "discription": "آباژور",
+      "url": "../images/selection/pic10.jpg"
+    },
+    {
+      "id": "10",
+      "price": "1.900.000",
+      "percent": "12%",
+      "dic": "2.900.000",
+      "discription": "شمع",
+      "url": "../images/selection/pic11.jpg"
+    },
+    {
+      "id": "11",
+      "price": "790.000",
+      "percent": "12%",
+      "dic": "800.000",
+      "discription": "جعبه دستمال",
+      "url": "../images/selection/pic12.jpg"
+    },
+    {
+      "id": " 12",
+      "price": "4.900.000",
+      "percent": "12%",
+      "dic": "5.900.000",
+      "discription": "اباژور",
+      "url": "../images/selection/pic13.jpg"
+    },
+    {
+      "id": "13",
+      "price": "900.000",
+      "percent": "12%",
+      "dic": "1.900.000",
+      "discription": "کیف کمری",
+      "url": "../images/selection/pic14.jpg"
+    },
+    {
+      "id": "14",
+      "price": "180.000",
+      "percent": "50%",
+      "dic": "280.000",
+      "discription": "ساک کوچیک",
+      "url": "../images/selection/pic15.jpg"
+    },
+    {
+      "id": "15",
+      "price": "180.000",
+      "percent": "50%",
+      "dic": "280.000",
+      "discription": "ساک بزرگ",
+      "url": "../images/selection/pic16.jpg"
+    },
+    {
+      "id": "16",
+      "price": "900.000",
+      "percent": "30%",
+      "dic": "2.900.000",
+      "discription": "کیف کمری",
+      "url": "../images/selection/pic17.jpg"
+    },
+    {
+      "id": "17",
+      "price": "680.000",
+      "percent": "25%",
+      "dic": "1.900.000",
+      "discription": "کاور گوشی",
+      "url": "../images/selection/pic18.jpg"
+    }
+  ]
+}
